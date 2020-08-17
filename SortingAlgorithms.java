@@ -1,6 +1,4 @@
-//6039168
 import java.util.*;
-//sort methods taken from the powerpoints
 
 public class SortingAlgorithms 
 {
